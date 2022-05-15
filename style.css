@@ -4,8 +4,8 @@
   justify-content: center;
   position: relative;
   margin: auto;
-  height: 40vw;
-  width: 40vw;
+  height: 500px;
+  width: 500px;
   background: url(./img/clock.jpg) no-repeat;
   background-size: 100%;
 }
